@@ -1,8 +1,5 @@
 import React from "react";
-import cssProjects from "../assets/Profile.jpg";
-import devlog from "../assets/Profile.jpg";
-import getInspirred from "../assets/Profile.jpg";
-import uilogs from "../assets/Profile.jpg";
+import devlog from "../assets/Profile.png";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";

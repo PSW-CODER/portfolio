@@ -1,6 +1,6 @@
 import React from "react";
 import { AiOutlineFacebook } from "react-icons/ai";
-import HeroImg from "../assets/Profile.jpg";
+import HeroImg from "../assets/Profile.png";
 import { useEffect } from "react";
 import AOS from "aos";
 import "aos/dist/aos.css";
