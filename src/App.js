@@ -7,8 +7,14 @@ import Projects from "./components/Projects";
 import Blog from "./components/Blog";
 import Contact from "./components/Contact";
 import Footer from "./components/Footer";
+import { useEffect } from "react";
 
 export default function App() {
+
+  useEffect(() => {
+    document.title = 'Pyae Sone Win - Portfolio'
+  })
+
   return (
     <>
       <Header />
