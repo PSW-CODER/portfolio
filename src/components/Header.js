@@ -9,7 +9,7 @@ const Header = () => {
 
     return (
         <header className="flex justify-between items-center px-5 py-4 bg-primary text-white fixed w-full z-10">
-            <a href="/" className="logo text-2xl font-bold text-accent">
+            <a href="#" className="logo text-2xl font-bold text-accent">
                 Pyae Sone Win
             </a>
 
