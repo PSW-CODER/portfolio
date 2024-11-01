@@ -17,16 +17,16 @@ const Header = () => {
             <nav className="hidden md:block">
                 <ul className="flex">
                     <li>
-                        <a href="/#about">About</a>
+                        <a href="#about">About</a>
                     </li>
                     <li>
-                        <a href="/#projects">Projects</a>
+                        <a href="#projects">Projects</a>
                     </li>
                     <li>
-                        <a href="/#contact">Contact</a>
+                        <a href="#contact">Contact</a>
                     </li>
                     <li>
-                        <a href="/#resume -link" target="_blank" without rel="noreferrer">
+                        <a href="#resume -link" target="_blank" without rel="noreferrer">
                             Resume
                         </a>
                     </li>
@@ -39,16 +39,16 @@ const Header = () => {
             >
                 <ul className="flex flex-col px-5 gap-3">
                     <li>
-                        <a href="/#about">About</a>
+                        <a href="#about">About</a>
                     </li>
                     <li>
-                        <a href="/#projects">Projects</a>
+                        <a href="#projects">Projects</a>
                     </li>
                     <li>
-                        <a href="/#contact">Contact</a>
+                        <a href="#contact">Contact</a>
                     </li>
                     <li>
-                        <a href="/#resume">Resume</a>
+                        <a href="#resume">Resume</a>
                     </li>
                 </ul>
             </nav>
